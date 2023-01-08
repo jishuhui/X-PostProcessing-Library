@@ -1,0 +1,1028 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\jishu\AppData\Local\JetBrains\Rider2020.3\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\jishu\AppData\Local\JetBrains\Rider2020.3\resharper-host\Local\Transient\Rider\v203\SolutionCaches\_X-PostProcessing-Library.418947583.00" t="ExcludeRecursive" />
+    <e p="F:\GitHub\X-PostProcessing-Library" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets\Example" t="Include">
+        <e p="NatureStarterKit" t="Include">
+          <e p="info.txt" t="Include" />
+          <e p="Standard Assets" t="Include">
+            <e p="Effects" t="Include">
+              <e p="ImageEffects" t="Include">
+                <e p="Scripts" t="Include">
+                  <e p="Antialiasing.cs" t="Include" />
+                  <e p="Bloom.cs" t="Include" />
+                  <e p="BloomAndFlares.cs" t="Include" />
+                  <e p="BloomOptimized.cs" t="Include" />
+                  <e p="Blur.cs" t="Include" />
+                  <e p="BlurOptimized.cs" t="Include" />
+                  <e p="CameraMotionBlur.cs" t="Include" />
+                  <e p="ColorCorrectionCurves.cs" t="Include" />
+                  <e p="ColorCorrectionLookup.cs" t="Include" />
+                  <e p="ColorCorrectionRamp.cs" t="Include" />
+                  <e p="ContrastEnhance.cs" t="Include" />
+                  <e p="ContrastStretch.cs" t="Include" />
+                  <e p="CreaseShading.cs" t="Include" />
+                  <e p="DepthOfField.cs" t="Include" />
+                  <e p="DepthOfFieldDeprecated.cs" t="Include" />
+                  <e p="EdgeDetection.cs" t="Include" />
+                  <e p="Fisheye.cs" t="Include" />
+                  <e p="GlobalFog.cs" t="Include" />
+                  <e p="Grayscale.cs" t="Include" />
+                  <e p="ImageEffectBase.cs" t="Include" />
+                  <e p="ImageEffects.cs" t="Include" />
+                  <e p="MotionBlur.cs" t="Include" />
+                  <e p="NoiseAndGrain.cs" t="Include" />
+                  <e p="NoiseAndScratches.cs" t="Include" />
+                  <e p="PostEffectsBase.cs" t="Include" />
+                  <e p="PostEffectsHelper.cs" t="Include" />
+                  <e p="Quads.cs" t="Include" />
+                  <e p="ScreenOverlay.cs" t="Include" />
+                  <e p="ScreenSpaceAmbientObscurance.cs" t="Include" />
+                  <e p="ScreenSpaceAmbientOcclusion.cs" t="Include" />
+                  <e p="SepiaTone.cs" t="Include" />
+                  <e p="SunShafts.cs" t="Include" />
+                  <e p="TiltShift.cs" t="Include" />
+                  <e p="Tonemapping.cs" t="Include" />
+                  <e p="Triangles.cs" t="Include" />
+                  <e p="Twirl.cs" t="Include" />
+                  <e p="VignetteAndChromaticAberration.cs" t="Include" />
+                  <e p="Vortex.cs" t="Include" />
+                </e>
+                <e p="Shaders" t="Include">
+                  <e p="_Antialiasing" t="Include">
+                    <e p="DLAA.shader" t="Include" />
+                    <e p="FXAA2.shader" t="Include" />
+                    <e p="FXAA3Console.shader" t="Include" />
+                    <e p="FXAAPreset2.shader" t="Include" />
+                    <e p="FXAAPreset3.shader" t="Include" />
+                    <e p="NFAA.shader" t="Include" />
+                    <e p="SSAA.shader" t="Include" />
+                  </e>
+                  <e p="_BloomAndFlares" t="Include">
+                    <e p="Blend.shader" t="Include" />
+                    <e p="BlendForBloom.shader" t="Include" />
+                    <e p="BlendOneOne.shader" t="Include" />
+                    <e p="BlurAndFlares.shader" t="Include" />
+                    <e p="BrightPassFilter.shader" t="Include" />
+                    <e p="BrightPassFilter2.shader" t="Include" />
+                    <e p="LensFlareCreate.shader" t="Include" />
+                    <e p="MobileBloom.shader" t="Include" />
+                    <e p="MobileBlur.shader" t="Include" />
+                    <e p="MultiPassHollywoodFlares.shader" t="Include" />
+                    <e p="SeparableBlurPlus.shader" t="Include" />
+                  </e>
+                  <e p="_DepthOfField" t="Include">
+                    <e p="Bokeh34.shader" t="Include" />
+                    <e p="DepthOfField34.shader" t="Include" />
+                    <e p="DepthOfFieldDX11.shader" t="Include" />
+                    <e p="DepthOfFieldScatter.shader" t="Include" />
+                    <e p="SeparableBlur.shader" t="Include" />
+                    <e p="SeparableWeightedBlurDof34.shader" t="Include" />
+                    <e p="TiltShiftHdrLensBlur.shader" t="Include" />
+                  </e>
+                  <e p="BlendModesOverlay.shader" t="Include" />
+                  <e p="BlurEffectConeTaps.shader" t="Include" />
+                  <e p="CameraMotionBlur.shader" t="Include" />
+                  <e p="CameraMotionBlurDX11.shader" t="Include" />
+                  <e p="ChromaticAberrationShader.shader" t="Include" />
+                  <e p="ColorCorrection3DLut.shader" t="Include" />
+                  <e p="ColorCorrectionCurves.shader" t="Include" />
+                  <e p="ColorCorrectionCurvesSimple.shader" t="Include" />
+                  <e p="ColorCorrectionEffect.shader" t="Include" />
+                  <e p="ColorCorrectionSelective.shader" t="Include" />
+                  <e p="Contrast Stretch" t="Include">
+                    <e p="Adaptation.shader" t="Include" />
+                    <e p="Apply.shader" t="Include" />
+                    <e p="Luminance.shader" t="Include" />
+                    <e p="MinMaxReduction.shader" t="Include" />
+                  </e>
+                  <e p="ContrastComposite.shader" t="Include" />
+                  <e p="ConvertDepth.shader" t="Include" />
+                  <e p="CreaseApply.shader" t="Include" />
+                  <e p="EdgeDetectNormals.shader" t="Include" />
+                  <e p="FisheyeShader.shader" t="Include" />
+                  <e p="GlobalFog.shader" t="Include" />
+                  <e p="GrayscaleEffect.shader" t="Include" />
+                  <e p="MotionBlur.shader" t="Include" />
+                  <e p="MotionBlurClear.shader" t="Include" />
+                  <e p="NoiseAndGrain.shader" t="Include" />
+                  <e p="NoiseAndGrainDX11.shader" t="Include" />
+                  <e p="NoiseEffectShaderRGB.shader" t="Include" />
+                  <e p="NoiseEffectShaderYUV.shader" t="Include" />
+                  <e p="ScreenSpaceAmbientObscurance.shader" t="Include" />
+                  <e p="SepiaToneEffect.shader" t="Include" />
+                  <e p="SimpleClear.shader" t="Include" />
+                  <e p="SunShaftsComposite.shader" t="Include" />
+                  <e p="Tonemapper.shader" t="Include" />
+                  <e p="TwirlEffect.shader" t="Include" />
+                  <e p="VignettingShader.shader" t="Include" />
+                  <e p="VortexEffect.shader" t="Include" />
+                </e>
+              </e>
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="Assets\PostProcessing-2" t="Include">
+        <e p="PostProcessing" t="Include">
+          <e p="Editor" t="Include">
+            <e p="Attributes" t="Include">
+              <e p="DecoratorAttribute.cs" t="Include" />
+              <e p="PostProcessEditorAttribute.cs" t="Include" />
+            </e>
+            <e p="BaseEditor.cs" t="Include" />
+            <e p="Decorators" t="Include">
+              <e p="AttributeDecorator.cs" t="Include" />
+              <e p="Decorators.cs" t="Include" />
+              <e p="TrackballDecorator.cs" t="Include" />
+            </e>
+            <e p="EffectListEditor.cs" t="Include" />
+            <e p="Effects" t="Include">
+              <e p="AmbientOcclusionEditor.cs" t="Include" />
+              <e p="AutoExposureEditor.cs" t="Include" />
+              <e p="BloomEditor.cs" t="Include" />
+              <e p="ChromaticAberrationEditor.cs" t="Include" />
+              <e p="ColorGradingEditor.cs" t="Include" />
+              <e p="DefaultPostProcessEffectEditor.cs" t="Include" />
+              <e p="DepthOfFieldEditor.cs" t="Include" />
+              <e p="LensDistortionEditor.cs" t="Include" />
+              <e p="ScreenSpaceReflectionsEditor.cs" t="Include" />
+              <e p="VignetteEditor.cs" t="Include" />
+            </e>
+            <e p="PostProcessDebugEditor.cs" t="Include" />
+            <e p="PostProcessEffectBaseEditor.cs" t="Include" />
+            <e p="PostProcessEffectEditor.cs" t="Include" />
+            <e p="PostProcessLayerEditor.cs" t="Include" />
+            <e p="PostProcessProfileEditor.cs" t="Include" />
+            <e p="PostProcessVolumeEditor.cs" t="Include" />
+            <e p="Tools" t="Include">
+              <e p="CubeLutAssetFactory.cs" t="Include" />
+              <e p="CubeLutAssetImporter.cs" t="Include" />
+              <e p="DefineSetter.cs" t="Include" />
+              <e p="ProfileFactory.cs" t="Include" />
+              <e p="ResourceAssetFactory.cs" t="Include" />
+              <e p="VolumeFactory.cs" t="Include" />
+            </e>
+            <e p="Unity.Postprocessing.Editor.asmdef" t="Include" />
+            <e p="Utils" t="Include">
+              <e p="CurveEditor.cs" t="Include" />
+              <e p="EditorUtilities.cs" t="Include" />
+              <e p="GlobalSettings.cs" t="Include" />
+              <e p="PostProcessShaderIncludePath.cs" t="Include" />
+              <e p="SerializedParameterOverride.cs" t="Include" />
+              <e p="Styling.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Runtime" t="Include">
+            <e p="Attributes" t="Include">
+              <e p="DisplayNameAttribute.cs" t="Include" />
+              <e p="MaxAttribute.cs" t="Include" />
+              <e p="MinAttribute.cs" t="Include" />
+              <e p="MinMaxAttribute.cs" t="Include" />
+              <e p="PostProcessAttribute.cs" t="Include" />
+              <e p="TrackballAttribute.cs" t="Include" />
+            </e>
+            <e p="Effects" t="Include">
+              <e p="AmbientOcclusion.cs" t="Include" />
+              <e p="AutoExposure.cs" t="Include" />
+              <e p="Bloom.cs" t="Include" />
+              <e p="ChromaticAberration.cs" t="Include" />
+              <e p="ColorGrading.cs" t="Include" />
+              <e p="DepthOfField.cs" t="Include" />
+              <e p="Dithering.cs" t="Include" />
+              <e p="FastApproximateAntialiasing.cs" t="Include" />
+              <e p="Fog.cs" t="Include" />
+              <e p="Grain.cs" t="Include" />
+              <e p="LensDistortion.cs" t="Include" />
+              <e p="MotionBlur.cs" t="Include" />
+              <e p="MultiScaleVO.cs" t="Include" />
+              <e p="ScalableAO.cs" t="Include" />
+              <e p="ScreenSpaceReflections.cs" t="Include" />
+              <e p="SubpixelMorphologicalAntialiasing.cs" t="Include" />
+              <e p="TemporalAntialiasing.cs" t="Include" />
+              <e p="Vignette.cs" t="Include" />
+            </e>
+            <e p="Monitors" t="Include">
+              <e p="HistogramMonitor.cs" t="Include" />
+              <e p="LightMeterMonitor.cs" t="Include" />
+              <e p="Monitor.cs" t="Include" />
+              <e p="VectorscopeMonitor.cs" t="Include" />
+              <e p="WaveformMonitor.cs" t="Include" />
+            </e>
+            <e p="ParameterOverride.cs" t="Include" />
+            <e p="PostProcessBundle.cs" t="Include" />
+            <e p="PostProcessDebug.cs" t="Include" />
+            <e p="PostProcessDebugLayer.cs" t="Include" />
+            <e p="PostProcessEffectRenderer.cs" t="Include" />
+            <e p="PostProcessEffectSettings.cs" t="Include" />
+            <e p="PostProcessEvent.cs" t="Include" />
+            <e p="PostProcessLayer.cs" t="Include" />
+            <e p="PostProcessManager.cs" t="Include" />
+            <e p="PostProcessProfile.cs" t="Include" />
+            <e p="PostProcessRenderContext.cs" t="Include" />
+            <e p="PostProcessResources.cs" t="Include" />
+            <e p="PostProcessVolume.cs" t="Include" />
+            <e p="Unity.Postprocessing.Runtime.asmdef" t="Include" />
+            <e p="Utils" t="Include">
+              <e p="ColorUtilities.cs" t="Include" />
+              <e p="HableCurve.cs" t="Include" />
+              <e p="HaltonSeq.cs" t="Include" />
+              <e p="LogHistogram.cs" t="Include" />
+              <e p="MeshUtilities.cs" t="Include" />
+              <e p="PropertySheet.cs" t="Include" />
+              <e p="PropertySheetFactory.cs" t="Include" />
+              <e p="RuntimeUtilities.cs" t="Include" />
+              <e p="ShaderIDs.cs" t="Include" />
+              <e p="Spline.cs" t="Include" />
+              <e p="TargetPool.cs" t="Include" />
+              <e p="TextureFormatUtilities.cs" t="Include" />
+              <e p="TextureLerper.cs" t="Include" />
+              <e p="XRSettings.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Shaders" t="Include">
+            <e p="ACES.hlsl" t="Include" />
+            <e p="API" t="Include">
+              <e p="D3D11.hlsl" t="Include" />
+              <e p="D3D12.hlsl" t="Include" />
+              <e p="D3D9.hlsl" t="Include" />
+              <e p="Metal.hlsl" t="Include" />
+              <e p="OpenGL.hlsl" t="Include" />
+              <e p="PSP2.hlsl" t="Include" />
+              <e p="PSSL.hlsl" t="Include" />
+              <e p="Switch.hlsl" t="Include" />
+              <e p="Vulkan.hlsl" t="Include" />
+              <e p="XboxOne.hlsl" t="Include" />
+            </e>
+            <e p="Builtins" t="Include">
+              <e p="AutoExposure.compute" t="Include" />
+              <e p="Bloom.shader" t="Include" />
+              <e p="Copy.shader" t="Include" />
+              <e p="CopyStd.shader" t="Include" />
+              <e p="CopyStdFromDoubleWide.shader" t="Include" />
+              <e p="CopyStdFromTexArray.shader" t="Include" />
+              <e p="DeferredFog.shader" t="Include" />
+              <e p="DepthOfField.hlsl" t="Include" />
+              <e p="DepthOfField.shader" t="Include" />
+              <e p="DiscardAlpha.shader" t="Include" />
+              <e p="DiskKernels.hlsl" t="Include" />
+              <e p="Distortion.hlsl" t="Include" />
+              <e p="Dithering.hlsl" t="Include" />
+              <e p="ExposureHistogram.compute" t="Include" />
+              <e p="ExposureHistogram.hlsl" t="Include" />
+              <e p="FastApproximateAntialiasing.hlsl" t="Include" />
+              <e p="FinalPass.shader" t="Include" />
+              <e p="Fog.hlsl" t="Include" />
+              <e p="GaussianDownsample.compute" t="Include" />
+              <e p="GrainBaker.shader" t="Include" />
+              <e p="Lut2DBaker.shader" t="Include" />
+              <e p="Lut3DBaker.compute" t="Include" />
+              <e p="MotionBlur.shader" t="Include" />
+              <e p="MultiScaleVO.shader" t="Include" />
+              <e p="MultiScaleVODownsample1.compute" t="Include" />
+              <e p="MultiScaleVODownsample2.compute" t="Include" />
+              <e p="MultiScaleVORender.compute" t="Include" />
+              <e p="MultiScaleVOUpsample.compute" t="Include" />
+              <e p="ScalableAO.hlsl" t="Include" />
+              <e p="ScalableAO.shader" t="Include" />
+              <e p="ScreenSpaceReflections.hlsl" t="Include" />
+              <e p="ScreenSpaceReflections.shader" t="Include" />
+              <e p="SubpixelMorphologicalAntialiasing.hlsl" t="Include" />
+              <e p="SubpixelMorphologicalAntialiasing.shader" t="Include" />
+              <e p="SubpixelMorphologicalAntialiasingBridge.hlsl" t="Include" />
+              <e p="TemporalAntialiasing.shader" t="Include" />
+              <e p="Texture2DLerp.shader" t="Include" />
+              <e p="Texture3DLerp.compute" t="Include" />
+              <e p="Uber.shader" t="Include" />
+            </e>
+            <e p="Colors.hlsl" t="Include" />
+            <e p="Debug" t="Include">
+              <e p="Histogram.compute" t="Include" />
+              <e p="Histogram.shader" t="Include" />
+              <e p="LightMeter.shader" t="Include" />
+              <e p="Overlays.shader" t="Include" />
+              <e p="Vectorscope.compute" t="Include" />
+              <e p="Vectorscope.shader" t="Include" />
+              <e p="Waveform.compute" t="Include" />
+              <e p="Waveform.shader" t="Include" />
+            </e>
+            <e p="Editor" t="Include">
+              <e p="ConvertToLog.shader" t="Include" />
+              <e p="CurveGrid.shader" t="Include" />
+              <e p="Trackball.shader" t="Include" />
+            </e>
+            <e p="Sampling.hlsl" t="Include" />
+            <e p="StdLib.hlsl" t="Include" />
+            <e p="xRLib.hlsl" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Assets\X-PostProcessing" t="Include">
+        <e p="Editor" t="Include">
+          <e p="XPostProcessingEditorUtility.cs" t="Include" />
+        </e>
+        <e p="Effects" t="Include">
+          <e p="AuroraVignette" t="Include">
+            <e p="AuroraVignette.cs" t="Include" />
+            <e p="Editor" t="Include">
+              <e p="AuroraVignetteEditor.cs" t="Include" />
+            </e>
+            <e p="Shader" t="Include">
+              <e p="AuroraVignette.shader" t="Include" />
+            </e>
+          </e>
+          <e p="BokehBlur" t="Include">
+            <e p="BokehBlur.cs" t="Include" />
+            <e p="Editor" t="Include">
+              <e p="BokehBlurEditor.cs" t="Include" />
+            </e>
+            <e p="Shader" t="Include">
+              <e p="BokehBlur.shader" t="Include" />
+            </e>
+          </e>
+          <e p="BoxBlur" t="Include">
+            <e p="BoxBlur.cs" t="Include" />
+            <e p="Editor" t="Include">
+              <e p="BoxBlurEditor.cs" t="Include" />
+            </e>
+            <e p="Shader" t="Include">
+              <e p="BoxBlur.shader" t="Include" />
+            </e>
+          </e>
+          <e p="ColorAdjustmentBleachBypass" t="Include">
+            <e p="ColorAdjustmentBleachBypass.cs" t="Include" />
+            <e p="Editor" t="Include">
+              <e p="ColorAdjustmentBleachBypassEditor.cs" t="Include" />
+            </e>
+            <e p="Shader" t="Include">
+              <e p="ColorAdjustmentBleachBypass.shader" t="Include" />
+            </e>
+          </e>
+          <e p="ColorAdjustmentBrightness" t="Include">
+            <e p="ColorAdjustmentBrightness.cs" t="Include" />
+            <e p="Editor" t="Include">
+              <e p="ColorAdjustmentBrightnessEditor.cs" t="Include" />
+            </e>
+            <e p="Shader" t="Include">
+              <e p="ColorAdjustmentBrightness.shader" t="Include" />
+            </e>
+          </e>
+          <e p="ColorAdjustmentContrast" t="Include">
+            <e p="ColorAdjustmentContrast.cs" t="Include" />
+            <e p="Editor" t="Include">
+              <e p="ColorAdjustmentContrastEditor.cs" t="Include" />
+            </e>
+            <e p="Shader" t="Include">
+              <e p="ColorAdjustmentContrast.shader" t="Include" />
+            </e>
+          </e>
+          <e p="ColorAdjustmentContrastV2" t="Include">
+            <e p="ColorAdjustmentContrastV2.cs" t="Include" />
+            <e p="Editor" t="Include">
+              <e p="ColorAdjustmentContrastV2Editor.cs" t="Include" />
+            </e>
+            <e p="Shader" t="Include">
+              <e p="ColorAdjustmentContrastV2.shader" t="Include" />
+            </e>
+          </e>
+          <e p="ColorAdjustmentContrastV3" t="Include">
+            <e p="ColorAdjustmentContrastV3.cs" t="Include" />
+            <e p="Editor" t="Include">
+              <e p="ColorAdjustmentContrastV3Editor.cs" t="Include" />
+            </e>
+            <e p="Shader" t="Include">
+              <e p="ColorAdjustmentContrastV3.shader" t="Include" />
+            </e>
+          </e>
+          <e p="ColorAdjustmentHue" t="Include">
+            <e p="ColorAdjustmentHue.cs" t="Include" />
+            <e p="Editor" t="Include">
+              <e p="ColorAdjustmentHueEditor.cs" t="Include" />
+            </e>
+            <e p="Shader" t="Include">
+              <e p="ColorAdjustmentHue.shader" t="Include" />
+            </e>
+          </e>
+          <e p="ColorAdjustmentLensFilter" t="Include">
+            <e p="ColorAdjustmentLensFilter.cs" t="Include" />
+            <e p="Editor" t="Include">
+              <e p="ColorAdjustmentLensFilterEditor.cs" t="Include" />
+            </e>
+            <e p="Shader" t="Include">
+              <e p="ColorAdjustmentLensFilter.shader" t="Include" />
+            </e>
+          </e>
+          <e p="ColorAdjustmentSaturation" t="Include">
+            <e p="ColorAdjustmentSaturation.cs" t="Include" />
+            <e p="Editor" t="Include">
+              <e p="ColorAdjustmentSaturationEditor.cs" t="Include" />
+            </e>
+            <e p="Shader" t="Include">
+              <e p="ColorAdjustmentSaturation.shader" t="Include" />
+            </e>
+          </e>
+          <e p="ColorAdjustmentTechnicolor" t="Include">
+            <e p="ColorAdjustmentTechnicolor.cs" t="Include" />
+            <e p="Editor" t="Include">
+              <e p="ColorAdjustmentTechnicolorEditor.cs" t="Include" />
+            </e>
+            <e p="Shader" t="Include">
+              <e p="ColorAdjustmentTechnicolor.shader" t="Include" />
+            </e>
+          </e>
+          <e p="ColorAdjustmentTint" t="Include">
+            <e p="ColorAdjustmentTint.cs" t="Include" />
+            <e p="Editor" t="Include">
+              <e p="ColorAdjustmentTintEditor.cs" t="Include" />
+            </e>
+            <e p="Shader" t="Include">
+              <e p="ColorAdjustmentTint.shader" t="Include" />
+            </e>
+          </e>
+          <e p="ColorAdjustmentWhiteBalance" t="Include">
+            <e p="ColorAdjustmentWhiteBalance.cs" t="Include" />
+            <e p="Editor" t="Include">
+              <e p="ColorAdjustmentWhiteBalanceEditor.cs" t="Include" />
+            </e>
+            <e p="Shader" t="Include">
+              <e p="ColorAdjustmentWhiteBalance.shader" t="Include" />
+            </e>
+          </e>
+          <e p="ColorReplace" t="Include">
+            <e p="ColorReplace.cs" t="Include" />
+            <e p="Editor" t="Include">
+              <e p="ColorReplaceEditor.cs" t="Include" />
+            </e>
+            <e p="Shader" t="Include">
+              <e p="ColorReplace.shader" t="Include" />
+            </e>
+          </e>
+          <e p="ColorReplaceV2" t="Include">
+            <e p="ColorReplaceV2.cs" t="Include" />
+            <e p="Editor" t="Include">
+              <e p="ColorReplaceV2Editor.cs" t="Include" />
+            </e>
+            <e p="Shader" t="Include">
+              <e p="ColorReplaceV2.shader" t="Include" />
+            </e>
+          </e>
+          <e p="DirectionalBlur" t="Include">
+            <e p="DirectionalBlur.cs" t="Include" />
+            <e p="Editor" t="Include">
+              <e p="DirectionalBlurEditor.cs" t="Include" />
+            </e>
+            <e p="Shader" t="Include">
+              <e p="DirectionalBlur.shader" t="Include" />
+            </e>
+          </e>
+          <e p="DualBoxBlur" t="Include">
+            <e p="DualBoxBlur.cs" t="Include" />
+            <e p="Editor" t="Include">
+              <e p="DualBoxBlurEditor.cs" t="Include" />
+            </e>
+            <e p="Shader" t="Include">
+              <e p="DualBoxBlur.shader" t="Include" />
+            </e>
+          </e>
+          <e p="DualGaussianBlur" t="Include">
+            <e p="DualGaussianBlur.cs" t="Include" />
+            <e p="Editor" t="Include">
+              <e p="DualGaussianBlurEditor.cs" t="Include" />
+            </e>
+            <e p="Shader" t="Include">
+              <e p="DualGaussianBlur.shader" t="Include" />
+            </e>
+          </e>
+          <e p="DualKawaseBlur" t="Include">
+            <e p="DualKawaseBlur.cs" t="Include" />
+            <e p="Editor" t="Include">
+              <e p="DualKawaseBlurEditor.cs" t="Include" />
+            </e>
+            <e p="Shader" t="Include">
+              <e p="DualKawaseBlur.shader" t="Include" />
+            </e>
+          </e>
+          <e p="DualTentBlur" t="Include">
+            <e p="DualTentBlur.cs" t="Include" />
+            <e p="Editor" t="Include">
+              <e p="DualTentBlurEditor.cs" t="Include" />
+            </e>
+            <e p="Shader" t="Include">
+              <e p="DualTentBlur.shader" t="Include" />
+            </e>
+          </e>
+          <e p="EdgeDetectionRoberts" t="Include">
+            <e p="EdgeDetectionRoberts.cs" t="Include" />
+            <e p="Editor" t="Include">
+              <e p="EdgeDetectionRobertsEditor.cs" t="Include" />
+            </e>
+            <e p="Shader" t="Include">
+              <e p="EdgeDetectionRoberts.shader" t="Include" />
+            </e>
+          </e>
+          <e p="EdgeDetectionRobertsNeon" t="Include">
+            <e p="EdgeDetectionRobertsNeon.cs" t="Include" />
+            <e p="Editor" t="Include">
+              <e p="EdgeDetectionRobertsNeonEditor.cs" t="Include" />
+            </e>
+            <e p="Shader" t="Include">
+              <e p="EdgeDetectionRobertsNeon.shader" t="Include" />
+            </e>
+          </e>
+          <e p="EdgeDetectionRobertsNeonV2" t="Include">
+            <e p="EdgeDetectionRobertsNeonV2.cs" t="Include" />
+            <e p="Editor" t="Include">
+              <e p="EdgeDetectionRobertsNeonV2Editor.cs" t="Include" />
+            </e>
+            <e p="Shader" t="Include">
+              <e p="EdgeDetectionRobertsNeonV2.shader" t="Include" />
+            </e>
+          </e>
+          <e p="EdgeDetectionScharr" t="Include">
+            <e p="EdgeDetectionScharr.cs" t="Include" />
+            <e p="Editor" t="Include">
+              <e p="EdgeDetectionScharrEditor.cs" t="Include" />
+            </e>
+            <e p="Shader" t="Include">
+              <e p="EdgeDetectionScharr.shader" t="Include" />
+            </e>
+          </e>
+          <e p="EdgeDetectionScharrNeon" t="Include">
+            <e p="EdgeDetectionScharrNeon.cs" t="Include" />
+            <e p="Editor" t="Include">
+              <e p="EdgeDetectionScharrNeonEditor.cs" t="Include" />
+            </e>
+            <e p="Shader" t="Include">
+              <e p="EdgeDetectionScharrNeon.shader" t="Include" />
+            </e>
+          </e>
+          <e p="EdgeDetectionScharrNeonV2" t="Include">
+            <e p="EdgeDetectionScharrNeonV2.cs" t="Include" />
+            <e p="Editor" t="Include">
+              <e p="EdgeDetectionScharrNeonV2Editor.cs" t="Include" />
+            </e>
+            <e p="Shader" t="Include">
+              <e p="EdgeDetectionScharrNeonV2.shader" t="Include" />
+            </e>
+          </e>
+          <e p="EdgeDetectionSobel" t="Include">
+            <e p="EdgeDetectionSobel.cs" t="Include" />
+            <e p="Editor" t="Include">
+              <e p="EdgeDetectionSobelEditor.cs" t="Include" />
+            </e>
+            <e p="Shader" t="Include">
+              <e p="EdgeDetectionSobel.shader" t="Include" />
+            </e>
+          </e>
+          <e p="EdgeDetectionSobelNeon" t="Include">
+            <e p="EdgeDetectionSobelNeon.cs" t="Include" />
+            <e p="Editor" t="Include">
+              <e p="EdgeDetectionSobelNeonEditor.cs" t="Include" />
+            </e>
+            <e p="Shader" t="Include">
+              <e p="EdgeDetectionSobelNeon.shader" t="Include" />
+            </e>
+          </e>
+          <e p="EdgeDetectionSobelNeonV2" t="Include">
+            <e p="EdgeDetectionSobelNeonV2.cs" t="Include" />
+            <e p="Editor" t="Include">
+              <e p="EdgeDetectionSobelNeonV2Editor.cs" t="Include" />
+            </e>
+            <e p="Shader" t="Include">
+              <e p="EdgeDetectionSobelNeonV2.shader" t="Include" />
+            </e>
+          </e>
+          <e p="GaussianBlur" t="Include">
+            <e p="Editor" t="Include">
+              <e p="GaussianBlurEditor.cs" t="Include" />
+            </e>
+            <e p="GaussianBlur.cs" t="Include" />
+            <e p="Shader" t="Include">
+              <e p="GaussianBlur.shader" t="Include" />
+            </e>
+          </e>
+          <e p="GlitchAnalogNoise" t="Include">
+            <e p="Editor" t="Include">
+              <e p="GlitchAnalogNoiseEditor.cs" t="Include" />
+            </e>
+            <e p="GlitchAnalogNoise.cs" t="Include" />
+            <e p="Shader" t="Include">
+              <e p="GlitchAnalogNoise.shader" t="Include" />
+            </e>
+          </e>
+          <e p="GlitchDigitalStripe" t="Include">
+            <e p="Editor" t="Include">
+              <e p="GlitchDigitalStripeEditor.cs" t="Include" />
+            </e>
+            <e p="GlitchDigitalStripe.cs" t="Include" />
+            <e p="Shader" t="Include">
+              <e p="GlitchDigitalStripe.shader" t="Include" />
+            </e>
+          </e>
+          <e p="GlitchImageBlock" t="Include">
+            <e p="Editor" t="Include">
+              <e p="GlitchImageBlockEditor.cs" t="Include" />
+            </e>
+            <e p="GlitchImageBlock.cs" t="Include" />
+            <e p="Shader" t="Include">
+              <e p="GlitchImageBlock.shader" t="Include" />
+            </e>
+          </e>
+          <e p="GlitchImageBlockV2" t="Include">
+            <e p="Editor" t="Include">
+              <e p="GlitchImageBlockV2Editor.cs" t="Include" />
+            </e>
+            <e p="GlitchImageBlockV2.cs" t="Include" />
+            <e p="Shader" t="Include">
+              <e p="GlitchImageBlockV2.shader" t="Include" />
+            </e>
+          </e>
+          <e p="GlitchImageBlockV3" t="Include">
+            <e p="Editor" t="Include">
+              <e p="GlitchImageBlockV3Editor.cs" t="Include" />
+            </e>
+            <e p="GlitchImageBlockV3.cs" t="Include" />
+            <e p="Shader" t="Include">
+              <e p="GlitchImageBlockV3.shader" t="Include" />
+            </e>
+          </e>
+          <e p="GlitchImageBlockV4" t="Include">
+            <e p="Editor" t="Include">
+              <e p="GlitchImageBlockV4Editor.cs" t="Include" />
+            </e>
+            <e p="GlitchImageBlockV4.cs" t="Include" />
+            <e p="Shader" t="Include">
+              <e p="GlitchImageBlockV4.shader" t="Include" />
+            </e>
+          </e>
+          <e p="GlitchLineBlock" t="Include">
+            <e p="Editor" t="Include">
+              <e p="GlitchLineBlockEditor.cs" t="Include" />
+            </e>
+            <e p="GlitchLineBlock.cs" t="Include" />
+            <e p="Shader" t="Include">
+              <e p="GlitchLineBlock.shader" t="Include" />
+            </e>
+          </e>
+          <e p="GlitchRGBSplit" t="Include">
+            <e p="Editor" t="Include">
+              <e p="GlitchRGBSplitEditor.cs" t="Include" />
+            </e>
+            <e p="GlitchRGBSplit.cs" t="Include" />
+            <e p="Shader" t="Include">
+              <e p="GlitchRGBSplit.shader" t="Include" />
+            </e>
+          </e>
+          <e p="GlitchRGBSplitV2" t="Include">
+            <e p="Editor" t="Include">
+              <e p="GlitchRGBSplitV2Editor.cs" t="Include" />
+            </e>
+            <e p="GlitchRGBSplitV2.cs" t="Include" />
+            <e p="Shader" t="Include">
+              <e p="GlitchRGBSplitV2.shader" t="Include" />
+            </e>
+          </e>
+          <e p="GlitchRGBSplitV3" t="Include">
+            <e p="Editor" t="Include">
+              <e p="GlitchRGBSplitV3Editor.cs" t="Include" />
+            </e>
+            <e p="GlitchRGBSplitV3.cs" t="Include" />
+            <e p="Shader" t="Include">
+              <e p="GlitchRGBSplitV3.shader" t="Include" />
+            </e>
+          </e>
+          <e p="GlitchRGBSplitV4" t="Include">
+            <e p="Editor" t="Include">
+              <e p="GlitchRGBSplitV4Editor.cs" t="Include" />
+            </e>
+            <e p="GlitchRGBSplitV4.cs" t="Include" />
+            <e p="Shader" t="Include">
+              <e p="GlitchRGBSplitV4.shader" t="Include" />
+            </e>
+          </e>
+          <e p="GlitchRGBSplitV5" t="Include">
+            <e p="Editor" t="Include">
+              <e p="GlitchRGBSplitV5Editor.cs" t="Include" />
+            </e>
+            <e p="GlitchRGBSplitV5.cs" t="Include" />
+            <e p="Shader" t="Include">
+              <e p="GlitchRGBSplitV5.shader" t="Include" />
+            </e>
+          </e>
+          <e p="GlitchScanLineJitter" t="Include">
+            <e p="Editor" t="Include">
+              <e p="GlitchScanLineJitterEditor.cs" t="Include" />
+            </e>
+            <e p="GlitchScanLineJitter.cs" t="Include" />
+            <e p="Shader" t="Include">
+              <e p="GlitchScanLineJitter.shader" t="Include" />
+            </e>
+          </e>
+          <e p="GlitchScreenJump" t="Include">
+            <e p="Editor" t="Include">
+              <e p="GlitchScreenJumpEditor.cs" t="Include" />
+            </e>
+            <e p="GlitchScreenJump.cs" t="Include" />
+            <e p="Shader" t="Include">
+              <e p="GlitchScreenJump.shader" t="Include" />
+            </e>
+          </e>
+          <e p="GlitchScreenShake" t="Include">
+            <e p="Editor" t="Include">
+              <e p="GlitchScreenShakeEditor.cs" t="Include" />
+            </e>
+            <e p="GlitchScreenShake.cs" t="Include" />
+            <e p="Shader" t="Include">
+              <e p="GlitchScreenShake.shader" t="Include" />
+            </e>
+          </e>
+          <e p="GlitchTileJitter" t="Include">
+            <e p="Editor" t="Include">
+              <e p="GlitchTileJitterEditor.cs" t="Include" />
+            </e>
+            <e p="GlitchTileJitter.cs" t="Include" />
+            <e p="Shader" t="Include">
+              <e p="GlitchTileJitter.shader" t="Include" />
+            </e>
+          </e>
+          <e p="GlitchWaveJitter" t="Include">
+            <e p="Editor" t="Include">
+              <e p="GlitchWaveJitterEditor.cs" t="Include" />
+            </e>
+            <e p="GlitchWaveJitter.cs" t="Include" />
+            <e p="Shader" t="Include">
+              <e p="GlitchWaveJitter.shader" t="Include" />
+            </e>
+          </e>
+          <e p="GrainyBlur" t="Include">
+            <e p="Editor" t="Include">
+              <e p="GrainyBlurEditor.cs" t="Include" />
+            </e>
+            <e p="GrainyBlur.cs" t="Include" />
+            <e p="Shader" t="Include">
+              <e p="GrainyBlur.shader" t="Include" />
+            </e>
+          </e>
+          <e p="IrisBlur" t="Include">
+            <e p="Editor" t="Include">
+              <e p="IrisBlurEditor.cs" t="Include" />
+            </e>
+            <e p="IrisBlur.cs" t="Include" />
+            <e p="Shader" t="Include">
+              <e p="IrisBlur.shader" t="Include" />
+            </e>
+          </e>
+          <e p="IrisBlurV2" t="Include">
+            <e p="Editor" t="Include">
+              <e p="IrisBlurV2Editor.cs" t="Include" />
+            </e>
+            <e p="IrisBlurV2.cs" t="Include" />
+            <e p="Shader" t="Include">
+              <e p="IrisBlurV2.shader" t="Include" />
+            </e>
+          </e>
+          <e p="KawaseBlur" t="Include">
+            <e p="Editor" t="Include">
+              <e p="KawaseBlurEditor.cs" t="Include" />
+            </e>
+            <e p="KawaseBlur.cs" t="Include" />
+            <e p="Shader" t="Include">
+              <e p="KawaseBlur.shader" t="Include" />
+            </e>
+          </e>
+          <e p="PixelizeCircle" t="Include">
+            <e p="Editor" t="Include">
+              <e p="PixelizeCircleEditor.cs" t="Include" />
+            </e>
+            <e p="PixelizeCircle.cs" t="Include" />
+            <e p="Shader" t="Include">
+              <e p="PixelizeCircle.shader" t="Include" />
+            </e>
+          </e>
+          <e p="PixelizeDiamond" t="Include">
+            <e p="Editor" t="Include">
+              <e p="PixelizeDiamondEditor.cs" t="Include" />
+            </e>
+            <e p="PixelizeDiamond.cs" t="Include" />
+            <e p="Shader" t="Include">
+              <e p="PixelizeDiamond.shader" t="Include" />
+            </e>
+          </e>
+          <e p="PixelizeHexagon" t="Include">
+            <e p="Editor" t="Include">
+              <e p="PixelizeHexagonEditor.cs" t="Include" />
+            </e>
+            <e p="PixelizeHexagon.cs" t="Include" />
+            <e p="Shader" t="Include">
+              <e p="PixelizeHexagon.shader" t="Include" />
+            </e>
+          </e>
+          <e p="PixelizeHexagonGrid" t="Include">
+            <e p="Editor" t="Include">
+              <e p="PixelizeHexagonGridEditor.cs" t="Include" />
+            </e>
+            <e p="PixelizeHexagonGrid.cs" t="Include" />
+            <e p="Shader" t="Include">
+              <e p="PixelizeHexagonGrid.shader" t="Include" />
+            </e>
+          </e>
+          <e p="PixelizeLeaf" t="Include">
+            <e p="Editor" t="Include">
+              <e p="PixelizeLeafEditor.cs" t="Include" />
+            </e>
+            <e p="PixelizeLeaf.cs" t="Include" />
+            <e p="Shader" t="Include">
+              <e p="PixelizeLeaf.shader" t="Include" />
+            </e>
+          </e>
+          <e p="PixelizeLed" t="Include">
+            <e p="Editor" t="Include">
+              <e p="PixelizeLedEditor.cs" t="Include" />
+            </e>
+            <e p="PixelizeLed.cs" t="Include" />
+            <e p="Shader" t="Include">
+              <e p="PixelizeLed.shader" t="Include" />
+            </e>
+          </e>
+          <e p="PixelizeQuad" t="Include">
+            <e p="Editor" t="Include">
+              <e p="PixelizeQuadEditor.cs" t="Include" />
+            </e>
+            <e p="PixelizeQuad.cs" t="Include" />
+            <e p="Shader" t="Include">
+              <e p="PixelizeQuad.shader" t="Include" />
+            </e>
+          </e>
+          <e p="PixelizeSector" t="Include">
+            <e p="Editor" t="Include">
+              <e p="PixelizeSectorEditor.cs" t="Include" />
+            </e>
+            <e p="PixelizeSector.cs" t="Include" />
+            <e p="Shader" t="Include">
+              <e p="PixelizeSector.shader" t="Include" />
+            </e>
+          </e>
+          <e p="PixelizeTriangle" t="Include">
+            <e p="Editor" t="Include">
+              <e p="PixelizeTriangleEditor.cs" t="Include" />
+            </e>
+            <e p="PixelizeTriangle.cs" t="Include" />
+            <e p="Shader" t="Include">
+              <e p="PixelizeTriangle.shader" t="Include" />
+            </e>
+          </e>
+          <e p="RadialBlur" t="Include">
+            <e p="Editor" t="Include">
+              <e p="RadialBlurEditor.cs" t="Include" />
+            </e>
+            <e p="RadialBlur.cs" t="Include" />
+            <e p="Shader" t="Include">
+              <e p="RadialBlur.shader" t="Include" />
+            </e>
+          </e>
+          <e p="RadialBlurV2" t="Include">
+            <e p="Editor" t="Include">
+              <e p="RadialBlurV2Editor.cs" t="Include" />
+            </e>
+            <e p="RadialBlurV2.cs" t="Include" />
+            <e p="Shader" t="Include">
+              <e p="RadialBlurV2.shader" t="Include" />
+            </e>
+          </e>
+          <e p="RapidOldTVVignette" t="Include">
+            <e p="Editor" t="Include">
+              <e p="RapidOldTVVignetteEditor.cs" t="Include" />
+            </e>
+            <e p="RapidOldTVVignette.cs" t="Include" />
+            <e p="Shader" t="Include">
+              <e p="RapidOldTVVignette.shader" t="Include" />
+            </e>
+          </e>
+          <e p="RapidOldTVVignetteV2" t="Include">
+            <e p="Editor" t="Include">
+              <e p="RapidOldTVVignetteV2Editor.cs" t="Include" />
+            </e>
+            <e p="RapidOldTVVignetteV2.cs" t="Include" />
+            <e p="Shader" t="Include">
+              <e p="RapidOldTVVignetteV2.shader" t="Include" />
+            </e>
+          </e>
+          <e p="RapidVignette" t="Include">
+            <e p="Editor" t="Include">
+              <e p="RapidVignetteEditor.cs" t="Include" />
+            </e>
+            <e p="RapidVignette.cs" t="Include" />
+            <e p="Shader" t="Include">
+              <e p="RapidVignette.shader" t="Include" />
+            </e>
+          </e>
+          <e p="RapidVignetteV2" t="Include">
+            <e p="Editor" t="Include">
+              <e p="RapidVignetteV2Editor.cs" t="Include" />
+            </e>
+            <e p="RapidVignetteV2.cs" t="Include" />
+            <e p="Shader" t="Include">
+              <e p="RapidVignetteV2.shader" t="Include" />
+            </e>
+          </e>
+          <e p="SharpenV1" t="Include">
+            <e p="Editor" t="Include">
+              <e p="SharpenV1Editor.cs" t="Include" />
+            </e>
+            <e p="Shader" t="Include">
+              <e p="SharpenV1.shader" t="Include" />
+            </e>
+            <e p="SharpenV1.cs" t="Include" />
+          </e>
+          <e p="SharpenV2" t="Include">
+            <e p="Editor" t="Include">
+              <e p="SharpenV2Editor.cs" t="Include" />
+            </e>
+            <e p="Shader" t="Include">
+              <e p="SharpenV2.shader" t="Include" />
+            </e>
+            <e p="SharpenV2.cs" t="Include" />
+          </e>
+          <e p="SharpenV3" t="Include">
+            <e p="Editor" t="Include">
+              <e p="SharpenV3Editor.cs" t="Include" />
+            </e>
+            <e p="Shader" t="Include">
+              <e p="SharpenV3.shader" t="Include" />
+            </e>
+            <e p="SharpenV3.cs" t="Include" />
+          </e>
+          <e p="TentBlur" t="Include">
+            <e p="Editor" t="Include">
+              <e p="TentBlurEditor.cs" t="Include" />
+            </e>
+            <e p="Shader" t="Include">
+              <e p="TentBlur.shader" t="Include" />
+            </e>
+            <e p="TentBlur.cs" t="Include" />
+          </e>
+          <e p="TiltShiftBlur" t="Include">
+            <e p="Editor" t="Include">
+              <e p="TiltShiftBlurEditor.cs" t="Include" />
+            </e>
+            <e p="Shader" t="Include">
+              <e p="TiltShiftBlur.shader" t="Include" />
+            </e>
+            <e p="TiltShiftBlur.cs" t="Include" />
+          </e>
+          <e p="TiltShiftBlurV2" t="Include">
+            <e p="Editor" t="Include">
+              <e p="TiltShiftBlurV2Editor.cs" t="Include" />
+            </e>
+            <e p="Shader" t="Include">
+              <e p="TiltShiftBlurV2.shader" t="Include" />
+            </e>
+            <e p="TiltShiftBlurV2.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Shaders" t="Include">
+          <e p="ACES.hlsl" t="Include" />
+          <e p="API" t="Include">
+            <e p="D3D11.hlsl" t="Include" />
+            <e p="D3D12.hlsl" t="Include" />
+            <e p="D3D9.hlsl" t="Include" />
+            <e p="Metal.hlsl" t="Include" />
+            <e p="OpenGL.hlsl" t="Include" />
+            <e p="PSP2.hlsl" t="Include" />
+            <e p="PSSL.hlsl" t="Include" />
+            <e p="Switch.hlsl" t="Include" />
+            <e p="Vulkan.hlsl" t="Include" />
+            <e p="XboxOne.hlsl" t="Include" />
+          </e>
+          <e p="Blending.hlsl" t="Include" />
+          <e p="Colors.hlsl" t="Include" />
+          <e p="Editor" t="Include">
+            <e p="ColorWheel.shader" t="Include" />
+          </e>
+          <e p="License.txt" t="Include" />
+          <e p="Sampling.hlsl" t="Include" />
+          <e p="StdLib.hlsl" t="Include" />
+          <e p="XNoiseLibrary.hlsl" t="Include" />
+          <e p="XPostProcessing.hlsl" t="Include" />
+          <e p="xRLib.hlsl" t="Include" />
+        </e>
+        <e p="Utility" t="Include">
+          <e p="ColorWheelAttribute.cs" t="Include" />
+          <e p="XParameterOverride.cs" t="Include" />
+          <e p="XPostProcessingEnum.cs" t="Include" />
+          <e p="XPostProcessingUtility.cs" t="Include" />
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+      <e p="Unity.Postprocessing.Editor.csproj" t="IncludeRecursive" />
+      <e p="Unity.Postprocessing.Runtime.csproj" t="IncludeRecursive" />
+      <e p="X-PostProcessing-Library.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>

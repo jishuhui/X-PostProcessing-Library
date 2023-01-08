@@ -65,7 +65,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e1b513c82ad9e224db6ba48112ec5d48, type: 3}
   m_Name: ColorReplaceV2
   m_EditorClassIdentifier: 
-  active: 1
+  active: 0
   enabled:
     overrideState: 1
     value: 1
@@ -183,10 +183,10 @@ MonoBehaviour:
     overrideState: 1
     value: 1
   BlurRadius:
-    overrideState: 0
+    overrideState: 1
     value: 3
   Iteration:
-    overrideState: 0
+    overrideState: 1
     value: 6
   RTDownScaling:
     overrideState: 0
@@ -202,7 +202,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2638595d43b44334d88d398c2ff5a6ad, type: 3}
   m_Name: ColorAdjustmentBleachBypass
   m_EditorClassIdentifier: 
-  active: 1
+  active: 0
   enabled:
     overrideState: 1
     value: 1
@@ -259,25 +259,25 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b6fc311bab7f3714daba3e248900eb31, type: 3}
   m_Name: TiltShiftBlurV2
   m_EditorClassIdentifier: 
-  active: 1
+  active: 0
   enabled:
     overrideState: 1
     value: 1
   BlurRadius:
-    overrideState: 0
-    value: 1
+    overrideState: 1
+    value: 3
   Iteration:
-    overrideState: 0
-    value: 32
+    overrideState: 1
+    value: 128
   centerOffset:
     overrideState: 1
     value: 0
   AreaSize:
-    overrideState: 0
+    overrideState: 1
     value: 1
   areaSmooth:
     overrideState: 1
-    value: 1.2
+    value: 2
   showPreview:
     overrideState: 1
     value: 0
@@ -297,14 +297,14 @@ MonoBehaviour:
     overrideState: 1
     value: 1
   BlurRadius:
-    overrideState: 0
-    value: 5
+    overrideState: 1
+    value: 0
   Iteration:
     overrideState: 1
-    value: 4
+    value: 1
   RTDownScaling:
     overrideState: 1
-    value: 1
+    value: 4.94
 --- !u!114 &114724888899494118
 MonoBehaviour:
   m_ObjectHideFlags: 3
@@ -361,7 +361,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e9ef3f5264488414c87b632cd2509b40, type: 3}
   m_Name: GlitchRGBSplitV5
   m_EditorClassIdentifier: 
-  active: 1
+  active: 0
   enabled:
     overrideState: 1
     value: 1
@@ -387,10 +387,10 @@ MonoBehaviour:
     overrideState: 1
     value: 1
   BlurRadius:
-    overrideState: 0
+    overrideState: 1
     value: 1
   Iteration:
-    overrideState: 0
+    overrideState: 1
     value: 32
   RTDownScaling:
     overrideState: 1
@@ -411,11 +411,11 @@ MonoBehaviour:
     overrideState: 1
     value: 1
   BlurRadius:
-    overrideState: 0
-    value: 1
+    overrideState: 1
+    value: 3
   Iteration:
-    overrideState: 0
-    value: 60
+    overrideState: 1
+    value: 128
   centerOffsetX:
     overrideState: 1
     value: 0
@@ -423,7 +423,7 @@ MonoBehaviour:
     overrideState: 1
     value: 0
   AreaSize:
-    overrideState: 0
+    overrideState: 1
     value: 8
   showPreview:
     overrideState: 1
@@ -439,7 +439,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0e84cf76f41f4f7459de554628a5a26b, type: 3}
   m_Name: ColorReplace
   m_EditorClassIdentifier: 
-  active: 1
+  active: 0
   enabled:
     overrideState: 1
     value: 1
@@ -472,13 +472,13 @@ MonoBehaviour:
     value: 1
   BlurRadius:
     overrideState: 1
-    value: 2.8
+    value: 2.74
   Iteration:
     overrideState: 1
     value: 3
   RTDownScaling:
     overrideState: 1
-    value: 2
+    value: 1
 --- !u!114 &114964623377917018
 MonoBehaviour:
   m_ObjectHideFlags: 3
